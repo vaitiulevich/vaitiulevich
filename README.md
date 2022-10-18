@@ -4,23 +4,26 @@
 Languages/Technologies that I'm familiar with:
 <ul>
 <li>JavaScript/TypeScript</li>
-<li><HTML</li>
-<li> CSS/Scss</li>
+<li>HTML</li>
+<li>CSS/Scss</li>
 <li>Vue3(options)</li>
 <li>Vuex</li>
-<li> jQuery</li>
+<li>jQuery</li>
 <li>Angular Material/Bootstrap/ MaterialUI</li>
 <li>GIT</li>
 <li>WSL(Linux)</li>
 </ul>
 Languages / Frameworks that I'm still learning about:
-• React
-• Angular
-• Node.js
-• Shopify/liquid 
+<ul>
+<li>React</li>
+<li>Angular</li>
+<li>Node.js</li>
+<li>Shopify/liquid</li> 
+ </ul>
 
-<h2>📫 How to reach me: vai.katia03@mail.ru </h2>
-- linkedin (Katia Vaitiulevich)
+<h2>📫 How to reach me </h2>
+- vai.katia03@mail.ru
+- linkedin: https://www.linkedin.com/in/katia-vaitiulevich-5bb2b0229/
 - cv:https://www.canva.com/design/DAExBWvJ5So/8iy4vYmcYZtnf4JiX98btA/view?utm_content=DAExBWvJ5So&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 <!---
