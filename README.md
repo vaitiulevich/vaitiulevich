@@ -21,7 +21,7 @@ Languages / Frameworks that I'm still learning about:
 <li>Shopify/liquid</li> 
  </ul>
 
-<h2>📫 How to reach me </h2></br>
+<h2>📫 How to reach me </h2>
 - vai.katia03@mail.ru</br>
 - linkedin: https://www.linkedin.com/in/katia-vaitiulevich-5bb2b0229/</br>
 - cv:https://www.canva.com/design/DAExBWvJ5So/8iy4vYmcYZtnf4JiX98btA/view?utm_content=DAExBWvJ5So&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
