@@ -25,7 +25,6 @@ Languages / Frameworks that I'm still learning about:
 - vai.katia03@mail.ru</br>
 - linkedin: https://www.linkedin.com/in/katia-vaitiulevich-5bb2b0229/</br>
 - cv:https://www.canva.com/design/DAExBWvJ5So/8iy4vYmcYZtnf4JiX98btA/view?utm_content=DAExBWvJ5So&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
 <!---
 vaitiulevich/vaitiulevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
